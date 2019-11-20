@@ -4,4 +4,4 @@
 和SpringBoot+SpringCloud+SpringMVC+SpringData(Spring全家桶)
 前后端技术的结合有了更深刻的认识。对SaaS这种平台服务有了更深入的了解。
 
-本项目只提供了后端代码实现，前端作者不是很擅长！
+本项目只提供了后端代码实现！！！
